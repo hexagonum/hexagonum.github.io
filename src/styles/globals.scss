@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@mixin themable($theme-name, $level-3, $level-2, $level-1) {
+  .#{$theme-name} {
+    @for $row from 0 through 30 {
+      @for $column from 0 through 30 {
+        $top: $row - 1;
+        $left: $column;
+        #hexagon-#{$row}-#{$column} {
+          position: absolute;
+          display: block;
+          top: 56px * $top;
+          left: 192px * $left - 96px * ($row % 2);
+          width: 128px;
+          height: 112px;
+
+          svg {
+            path {
+              fill: #000;
+              transition-property: fill;
+              transition-duration: 1000ms;
+              transition-timing-function: linear;
+            }
+          }
+
+          &.level-3 {
+            svg {
+              path {
+                fill: $level-3;
+              }
+            }
+          }
+
+          &.level-2 {
+            svg {
+              path {
+                fill: $level-2;
+              }
+            }
+          }
+
+          &.level-1 {
+            svg {
+              path {
+                fill: $level-1;
+              }
+            }
+          }
+
+          &:hover {
+            cursor: pointer;
+
+            svg {
+              path {
+                fill: #ffffff;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@include themable('theme-0', #aa0200, #ffb81d, #071d49);

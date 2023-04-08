@@ -1,0 +1,159 @@
+import useWindowSize from '@hexagonum/hooks/use-window-size';
+import { NextPage } from 'next';
+import { useEffect, useState } from 'react';
+
+const Hexagon: React.FC = () => {
+  return (
+    <svg
+      version="1.1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="128"
+      height="112"
+      viewBox="0 0 128 110.85125168440814"
+      style={{ pointerEvents: 'none' }}
+    >
+      <path
+        stroke="#ffffff"
+        strokeWidth="5"
+        d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+        style={{ pointerEvents: 'none' }}
+      />
+    </svg>
+  );
+};
+
+const themes = ['theme-0'];
+
+export const HomePage: NextPage = () => {
+  const { width, height } = useWindowSize();
+
+  const [theme, setTheme] = useState(themes[0]);
+  const [{ maxRows, maxColumns }, setMax] = useState({
+    maxColumns: Math.floor(width / 128) + 10,
+    maxRows: Math.floor(height / 112) * 2 + 10,
+  });
+
+  useEffect(() => {
+    const maxColumns = Math.floor(width / 128) + 10;
+    const maxRows = Math.floor(height / 112) * 2 + 10;
+
+    setMax({ maxColumns, maxRows });
+  }, [width, height]);
+
+  const columns = [...Array(maxColumns + 1).keys()].map((i) => i);
+  const rows = [...Array(maxRows + 1).keys()].map(() => columns);
+
+  return (
+    <div className={theme}>
+      <main className="w-screen h-screen overflow-hidden">
+        <div className="relative">
+          <div className="absolute top-0 right-0 left-0 bottom-0 mx-auto">
+            <div className="relative">
+              {rows.map((columns: number[], row: number) => {
+                return columns.map((column: number) => {
+                  return (
+                    <button
+                      type="button"
+                      id={`hexagon-${row}-${column}`}
+                      key={`hexagon-${row}-${column}`}
+                      data-row={row}
+                      data-column={column}
+                      onClick={() => {
+                        const themeIndex = themes.indexOf(theme);
+                        const nextIndex =
+                          themeIndex + 1 === themes.length ? 0 : themeIndex + 1;
+                        const nextTheme = themes[nextIndex];
+                        console.log(nextTheme);
+                        setTheme(nextTheme);
+                      }}
+                      onMouseLeave={() => {
+                        ['.level-1', '.level-2', '.level-3'].forEach(
+                          (className) => {
+                            const oldBoxes =
+                              document.querySelectorAll(className);
+                            oldBoxes.forEach((box) => {
+                              box.classList.remove(className.replace('.', ''));
+                            });
+                          }
+                        );
+                      }}
+                      onMouseOver={(event: any) => {
+                        const row = parseInt(event.target.dataset.row, 10);
+                        const column = parseInt(
+                          event.target.dataset.column,
+                          10
+                        );
+                        // Level 1
+                        const leftLevel1 = row % 2 === 0 ? 0 : -1;
+                        const rightLevel1 = row % 2 === 0 ? 1 : 0;
+                        const level1Boxes = [
+                          { row: row - 2, column: column },
+                          { row: row - 1, column: column + leftLevel1 },
+                          { row: row - 1, column: column + rightLevel1 },
+                          { row: row + 1, column: column + leftLevel1 },
+                          { row: row + 1, column: column + rightLevel1 },
+                          { row: row + 2, column: column },
+                        ].map(({ row, column }) => `hexagon-${row}-${column}`);
+                        level1Boxes.forEach((id) => {
+                          document.getElementById(id)?.classList.add('level-1');
+                        });
+                        // Level 2
+                        const rightLevel2 = row % 2 ? 0 : 1;
+                        const leftLevel2 = row % 2 ? -1 : 0;
+                        const level2Boxes = [
+                          { row: row - 4, column: column },
+                          { row: row - 3, column: column + leftLevel2 },
+                          { row: row - 3, column: column + rightLevel2 },
+                          { row: row - 2, column: column + 1 },
+                          { row: row - 2, column: column + -1 },
+                          { row: row, column: column + -1 },
+                          { row: row, column: column + 1 },
+                          { row: row + 2, column: column + 1 },
+                          { row: row + 2, column: column + -1 },
+                          { row: row + 3, column: column + leftLevel2 },
+                          { row: row + 3, column: column + rightLevel2 },
+                          { row: row + 4, column: column },
+                        ].map(({ row, column }) => `hexagon-${row}-${column}`);
+                        level2Boxes.forEach((id) => {
+                          document.getElementById(id)?.classList.add('level-2');
+                        });
+                        // Level 3
+                        const level3Boxes = [
+                          { row: row - 6, column: column },
+                          { row: row - 5, column: column + leftLevel2 },
+                          { row: row - 5, column: column + rightLevel2 },
+                          { row: row - 4, column: column - 1 },
+                          { row: row - 4, column: column + 1 },
+                          { row: row - 3, column: column + leftLevel2 - 1 },
+                          { row: row - 3, column: column + rightLevel2 + 1 },
+                          { row: row - 1, column: column + leftLevel2 - 1 },
+                          { row: row - 1, column: column + rightLevel2 + 1 },
+                          { row: row + 1, column: column + leftLevel2 - 1 },
+                          { row: row + 1, column: column + rightLevel2 + 1 },
+                          { row: row + 3, column: column + leftLevel2 - 1 },
+                          { row: row + 3, column: column + rightLevel2 + 1 },
+                          { row: row + 4, column: column - 1 },
+                          { row: row + 4, column: column + 1 },
+                          { row: row + 5, column: column + leftLevel2 },
+                          { row: row + 5, column: column + rightLevel2 },
+                          { row: row + 6, column: column },
+                        ].map(({ row, column }) => `hexagon-${row}-${column}`);
+                        level3Boxes.forEach((id) => {
+                          document.getElementById(id)?.classList.add('level-3');
+                        });
+                      }}
+                    >
+                      <Hexagon />
+                    </button>
+                  );
+                });
+              })}
+            </div>
+          </div>
+        </div>
+      </main>
+    </div>
+  );
+};
+
+export default HomePage;
