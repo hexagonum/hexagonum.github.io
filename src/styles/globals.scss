@@ -31,8 +31,8 @@
 
 @mixin themable($theme-name, $level-3, $level-2, $level-1) {
   .#{$theme-name} {
-    @for $row from 0 through 30 {
-      @for $column from 0 through 30 {
+    @for $row from 0 through 50 {
+      @for $column from 0 through 50 {
         $top: $row - 1;
         $left: $column;
 
