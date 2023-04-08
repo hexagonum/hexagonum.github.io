@@ -2,12 +2,40 @@
 @tailwind components;
 @tailwind utilities;
 
+@keyframes rotation-3 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(180deg);
+  }
+}
+
+@keyframes rotation-2 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(120deg);
+  }
+}
+
+@keyframes rotation-1 {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(60deg);
+  }
+}
+
 @mixin themable($theme-name, $level-3, $level-2, $level-1) {
   .#{$theme-name} {
     @for $row from 0 through 30 {
       @for $column from 0 through 30 {
         $top: $row - 1;
         $left: $column;
+
         #hexagon-#{$row}-#{$column} {
           position: absolute;
           display: block;
@@ -20,13 +48,19 @@
             path {
               fill: #000;
               transition-property: fill;
-              transition-duration: 1000ms;
+              transition-duration: 500ms;
               transition-timing-function: linear;
             }
           }
 
+          .project {
+            display: none;
+          }
+
           &.level-3 {
             svg {
+              animation: rotation-3 750ms linear;
+
               path {
                 fill: $level-3;
               }
@@ -35,6 +69,8 @@
 
           &.level-2 {
             svg {
+              animation: rotation-2 500ms linear;
+
               path {
                 fill: $level-2;
               }
@@ -43,6 +79,8 @@
 
           &.level-1 {
             svg {
+              animation: rotation-1 250ms linear;
+
               path {
                 fill: $level-1;
               }
@@ -56,6 +94,10 @@
               path {
                 fill: #ffffff;
               }
+            }
+
+            .project {
+              display: flex;
             }
           }
         }

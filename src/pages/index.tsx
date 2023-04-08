@@ -1,5 +1,7 @@
 import useWindowSize from '@hexagonum/hooks/use-window-size';
 import { NextPage } from 'next';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { useEffect, useState } from 'react';
 
 const Hexagon: React.FC = () => {
@@ -24,7 +26,20 @@ const Hexagon: React.FC = () => {
 
 const themes = ['theme-0'];
 
+const projects = [
+  { emoji: '☕', url: 'https://hexagonum.github.io/cafesang/' },
+  { emoji: '🐝', url: '#' },
+  { emoji: '⚽', url: '#' },
+  { emoji: '🗺️', url: 'https://hexagonum.github.io/maps.svg/' },
+  { emoji: '💵', url: '#' },
+  { emoji: '📈', url: '#' },
+  { emoji: '🧠', url: 'https://hexagonum.github.io/hofstede/' },
+];
+
 export const HomePage: NextPage = () => {
+  const router = useRouter();
+  const { visible } = router.query;
+
   const { width, height } = useWindowSize();
 
   const [theme, setTheme] = useState(themes[0]);
@@ -34,13 +49,13 @@ export const HomePage: NextPage = () => {
   });
 
   useEffect(() => {
-    const maxColumns = Math.floor(width / 128) + 10;
-    const maxRows = Math.floor(height / 112) * 2 + 10;
+    const maxColumns = Math.floor(width / 128) + 5;
+    const maxRows = Math.floor(height / 112) * 2 + 5;
 
     setMax({ maxColumns, maxRows });
   }, [width, height]);
 
-  const columns = [...Array(maxColumns + 1).keys()].map((i) => i);
+  const columns = [...Array(maxColumns + 1).keys()].map((i: number) => i);
   const rows = [...Array(maxRows + 1).keys()].map(() => columns);
 
   return (
@@ -50,12 +65,18 @@ export const HomePage: NextPage = () => {
           <div className="absolute top-0 right-0 left-0 bottom-0 mx-auto">
             <div className="relative">
               {rows.map((columns: number[], row: number) => {
+                const filterProjects = projects.filter((_, index) => {
+                  return index % 2 === row % 2;
+                });
                 return columns.map((column: number) => {
+                  const projectIndex: number =
+                    (column + row) % filterProjects.length;
+                  const project = filterProjects[projectIndex];
                   return (
                     <button
                       type="button"
                       id={`hexagon-${row}-${column}`}
-                      key={`hexagon-${row}-${column}`}
+                      key={`hexagon-row-${column}`}
                       data-row={row}
                       data-column={column}
                       onClick={() => {
@@ -142,7 +163,17 @@ export const HomePage: NextPage = () => {
                           document.getElementById(id)?.classList.add('level-3');
                         });
                       }}
+                      className="relative"
                     >
+                      <div
+                        className={`${
+                          visible === 'true' ? 'flex' : 'project'
+                        } absolute w-full h-full items-center justify-center text-6xl`}
+                      >
+                        <Link href={project.url} target="_blank">
+                          {project.emoji}
+                        </Link>
+                      </div>
                       <Hexagon />
                     </button>
                   );
