@@ -1,0 +1,17 @@
+{
+  "name": "Hexagonum",
+  "short_name": "Hex",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "browser",
+  "orientation": "landscape",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
