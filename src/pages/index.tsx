@@ -46,10 +46,11 @@ const projects: Project[] = [
     url: 'https://hexagonum.github.io/maps.svg/',
   },
   { emoji: '🐝', name: 'bumblebee', url: '#' },
-  { emoji: '⚽', name: 'vleague', url: '#' },
+  { emoji: '⚽', name: 'liverpool', url: '#' },
   { emoji: '💵', name: 'vi', url: '#' },
   { emoji: '📈', name: 'vnindex', url: '#' },
   { emoji: '♟️', name: 'chess', url: '#' },
+  { emoji: '🇻🇳', name: 'vietnam', url: '#' },
 ];
 
 export const HomePage: NextPage = () => {
@@ -81,9 +82,9 @@ export const HomePage: NextPage = () => {
           <div className="absolute top-0 right-0 left-0 bottom-0 mx-auto">
             <div className="relative">
               {rows.map((columns: number[], row: number) => {
-                const filterProjects = projects.filter((_, index) => {
-                  return index % 2 === row % 2;
-                });
+                const filterProjects = projects.filter(
+                  (_, index) => index % 2 === row % 2
+                );
                 return columns.map((column: number) => {
                   const projectIndex: number =
                     (column + row) % filterProjects.length;
