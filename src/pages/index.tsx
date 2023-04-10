@@ -26,14 +26,29 @@ const Hexagon: React.FC = () => {
 
 const themes = ['theme-0'];
 
-const projects = [
-  { emoji: '☕', url: 'https://hexagonum.github.io/cafesang/' },
-  { emoji: '🐝', url: '#' },
-  { emoji: '⚽', url: '#' },
-  { emoji: '🗺️', url: 'https://hexagonum.github.io/maps.svg/' },
-  { emoji: '💵', url: '#' },
-  { emoji: '📈', url: '#' },
-  { emoji: '🧠', url: 'https://hexagonum.github.io/hofstede/' },
+type Project = { emoji: string; name: string; url: string };
+
+const projects: Project[] = [
+  {
+    emoji: '☕',
+    name: 'cafesang',
+    url: 'https://hexagonum.github.io/cafesang/',
+  },
+  { emoji: '🐝', name: 'bumblebee', url: '#' },
+  { emoji: '⚽', name: 'vleague', url: '#' },
+  {
+    emoji: '🗺️',
+    name: 'maps.svg',
+    url: 'https://hexagonum.github.io/maps.svg/',
+  },
+  { emoji: '💵', name: 'vi', url: '#' },
+  { emoji: '📈', name: 'vnindex', url: '#' },
+  {
+    emoji: '🧠',
+    name: 'psychology',
+    url: 'https://hexagonum.github.io/hofstede/',
+  },
+  { emoji: '♟️', name: 'chess', url: '#' },
 ];
 
 export const HomePage: NextPage = () => {
@@ -170,7 +185,11 @@ export const HomePage: NextPage = () => {
                           visible === 'true' ? 'flex' : 'project'
                         } absolute w-full h-full items-center justify-center text-6xl`}
                       >
-                        <Link href={project.url} target="_blank">
+                        <Link
+                          id={project.name}
+                          href={project.url}
+                          target="_blank"
+                        >
                           {project.emoji}
                         </Link>
                       </div>
