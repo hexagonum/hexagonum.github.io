@@ -34,20 +34,21 @@ const projects: Project[] = [
     name: 'cafesang',
     url: 'https://hexagonum.github.io/cafesang/',
   },
-  { emoji: '🐝', name: 'bumblebee', url: '#' },
-  { emoji: '⚽', name: 'vleague', url: '#' },
-  {
-    emoji: '🗺️',
-    name: 'maps.svg',
-    url: 'https://hexagonum.github.io/maps.svg/',
-  },
-  { emoji: '💵', name: 'vi', url: '#' },
-  { emoji: '📈', name: 'vnindex', url: '#' },
+  { emoji: '🎨', name: 'colors', url: 'https://hexagonum.github.io/colors/' },
   {
     emoji: '🧠',
     name: 'psychology',
     url: 'https://hexagonum.github.io/hofstede/',
   },
+  {
+    emoji: '🗺️',
+    name: 'maps.svg',
+    url: 'https://hexagonum.github.io/maps.svg/',
+  },
+  { emoji: '🐝', name: 'bumblebee', url: '#' },
+  { emoji: '⚽', name: 'vleague', url: '#' },
+  { emoji: '💵', name: 'vi', url: '#' },
+  { emoji: '📈', name: 'vnindex', url: '#' },
   { emoji: '♟️', name: 'chess', url: '#' },
 ];
 
