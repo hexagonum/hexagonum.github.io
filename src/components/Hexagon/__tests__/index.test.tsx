@@ -1,13 +1,13 @@
-import { HomePage } from '@hexagonum/pages';
 import { render } from '@testing-library/react';
+import { Hexagon } from '..';
 
 jest.mock('next/router', () => ({
   useRouter: jest.fn().mockReturnValue({ query: { visible: 'true' } }),
 }));
 
-describe('HomePage', () => {
+describe('Hexagon', () => {
   it('to match snapshot', () => {
-    const { container } = render(<HomePage />);
+    const { container } = render(<Hexagon />);
     expect(container).toMatchSnapshot();
   });
 });

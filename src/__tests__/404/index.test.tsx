@@ -1,13 +1,13 @@
-import { HomePage } from '@hexagonum/pages';
+import { NotFoundPage } from '@hexagonum/pages/404';
 import { render } from '@testing-library/react';
 
 jest.mock('next/router', () => ({
   useRouter: jest.fn().mockReturnValue({ query: { visible: 'true' } }),
 }));
 
-describe('HomePage', () => {
+describe('NotFoundPage', () => {
   it('to match snapshot', () => {
-    const { container } = render(<HomePage />);
+    const { container } = render(<NotFoundPage />);
     expect(container).toMatchSnapshot();
   });
 });
