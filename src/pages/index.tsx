@@ -31,6 +31,7 @@ const projects: Project[] = [
     name: 'liverpool',
     url: 'https://hexagonum.github.io/liverpool/',
   },
+  { emoji: '💱', name: 'forex', url: 'https://hexagonum.github.io/forex/' },
   { emoji: '🐝', name: 'bumblebee', url: '#' },
 ];
 
