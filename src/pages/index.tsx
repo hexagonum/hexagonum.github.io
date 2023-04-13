@@ -26,12 +26,12 @@ const projects: Project[] = [
     name: 'maps.svg',
     url: 'https://hexagonum.github.io/maps.svg/',
   },
+  {
+    emoji: '⚽',
+    name: 'liverpool',
+    url: 'https://hexagonum.github.io/liverpool/',
+  },
   { emoji: '🐝', name: 'bumblebee', url: '#' },
-  { emoji: '⚽', name: 'liverpool', url: '#' },
-  { emoji: '💵', name: 'vi', url: '#' },
-  { emoji: '📈', name: 'vnindex', url: '#' },
-  { emoji: '♟️', name: 'chess', url: '#' },
-  { emoji: '🇻🇳', name: 'vietnam', url: '#' },
 ];
 
 export const HomePage: NextPage = () => {
