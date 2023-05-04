@@ -96,11 +96,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -130,11 +130,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -165,10 +165,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -266,11 +266,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -300,11 +300,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -335,10 +335,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -436,11 +436,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -470,11 +470,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -538,11 +538,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  ⚽
+                  💱
                 </a>
               </div>
               <svg
@@ -572,11 +572,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  📈
+                  ☁️
                 </a>
               </div>
               <svg
@@ -606,11 +606,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
                   target="_blank"
                 >
-                  🇻🇳
+                  🎨
                 </a>
               </div>
               <svg
@@ -640,11 +640,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/colors/"
-                  id="colors"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  🎨
+                  🗺️
                 </a>
               </div>
               <svg
@@ -674,11 +674,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/maps.svg/"
-                  id="maps.svg"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  🗺️
+                  💱
                 </a>
               </div>
               <svg
@@ -708,11 +708,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  ⚽
+                  ☁️
                 </a>
               </div>
               <svg
@@ -736,74 +736,6 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="7"
               data-row="1"
               id="hexagon-1-7"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vnindex"
-                  target="_blank"
-                >
-                  📈
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="8"
-              data-row="1"
-              id="hexagon-1-8"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vietnam"
-                  target="_blank"
-                >
-                  🇻🇳
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="9"
-              data-row="1"
-              id="hexagon-1-9"
               type="button"
             >
               <div
@@ -835,9 +767,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="10"
+              data-column="8"
               data-row="1"
-              id="hexagon-1-10"
+              id="hexagon-1-8"
               type="button"
             >
               <div
@@ -869,6 +801,74 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
+              data-column="9"
+              data-row="1"
+              id="hexagon-1-9"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
+                  target="_blank"
+                >
+                  💱
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="10"
+              data-row="1"
+              id="hexagon-1-10"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
+                  target="_blank"
+                >
+                  ☁️
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
               data-column="11"
               data-row="1"
               id="hexagon-1-11"
@@ -878,11 +878,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
                   target="_blank"
                 >
-                  ⚽
+                  🎨
                 </a>
               </div>
               <svg
@@ -912,11 +912,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  📈
+                  🗺️
                 </a>
               </div>
               <svg
@@ -946,11 +946,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  🇻🇳
+                  💱
                 </a>
               </div>
               <svg
@@ -980,11 +980,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -1014,11 +1014,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -1049,10 +1049,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -1150,11 +1150,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -1184,11 +1184,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -1219,10 +1219,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -1320,11 +1320,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -1354,11 +1354,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -1389,10 +1389,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -1456,11 +1456,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  📈
+                  ☁️
                 </a>
               </div>
               <svg
@@ -1490,11 +1490,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
                   target="_blank"
                 >
-                  🇻🇳
+                  🎨
                 </a>
               </div>
               <svg
@@ -1524,11 +1524,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/colors/"
-                  id="colors"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  🎨
+                  🗺️
                 </a>
               </div>
               <svg
@@ -1558,11 +1558,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/maps.svg/"
-                  id="maps.svg"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  🗺️
+                  💱
                 </a>
               </div>
               <svg
@@ -1592,11 +1592,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  ⚽
+                  ☁️
                 </a>
               </div>
               <svg
@@ -1626,11 +1626,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
                   target="_blank"
                 >
-                  📈
+                  🎨
                 </a>
               </div>
               <svg
@@ -1660,11 +1660,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  🇻🇳
+                  🗺️
                 </a>
               </div>
               <svg
@@ -1694,11 +1694,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/colors/"
-                  id="colors"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  🎨
+                  💱
                 </a>
               </div>
               <svg
@@ -1728,11 +1728,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/maps.svg/"
-                  id="maps.svg"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🗺️
+                  ☁️
                 </a>
               </div>
               <svg
@@ -1756,108 +1756,6 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="9"
               data-row="3"
               id="hexagon-3-9"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="liverpool"
-                  target="_blank"
-                >
-                  ⚽
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="10"
-              data-row="3"
-              id="hexagon-3-10"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vnindex"
-                  target="_blank"
-                >
-                  📈
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="11"
-              data-row="3"
-              id="hexagon-3-11"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vietnam"
-                  target="_blank"
-                >
-                  🇻🇳
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="12"
-              data-row="3"
-              id="hexagon-3-12"
               type="button"
             >
               <div
@@ -1889,9 +1787,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="13"
+              data-column="10"
               data-row="3"
-              id="hexagon-3-13"
+              id="hexagon-3-10"
               type="button"
             >
               <div
@@ -1903,6 +1801,108 @@ exports[`HomePage to match snapshot 1`] = `
                   target="_blank"
                 >
                   🗺️
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="11"
+              data-row="3"
+              id="hexagon-3-11"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
+                  target="_blank"
+                >
+                  💱
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="12"
+              data-row="3"
+              id="hexagon-3-12"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
+                  target="_blank"
+                >
+                  ☁️
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="13"
+              data-row="3"
+              id="hexagon-3-13"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
+                  target="_blank"
+                >
+                  🎨
                 </a>
               </div>
               <svg
@@ -1933,10 +1933,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -2034,11 +2034,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -2068,11 +2068,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -2103,10 +2103,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -2204,11 +2204,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -2238,11 +2238,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -2273,10 +2273,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -2374,11 +2374,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -2408,11 +2408,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/colors/"
-                  id="colors"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  🎨
+                  🗺️
                 </a>
               </div>
               <svg
@@ -2442,11 +2442,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/maps.svg/"
-                  id="maps.svg"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  🗺️
+                  💱
                 </a>
               </div>
               <svg
@@ -2476,11 +2476,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  ⚽
+                  ☁️
                 </a>
               </div>
               <svg
@@ -2510,11 +2510,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
                   target="_blank"
                 >
-                  📈
+                  🎨
                 </a>
               </div>
               <svg
@@ -2544,11 +2544,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  🇻🇳
+                  🗺️
                 </a>
               </div>
               <svg
@@ -2578,11 +2578,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/colors/"
-                  id="colors"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  🎨
+                  💱
                 </a>
               </div>
               <svg
@@ -2612,11 +2612,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/maps.svg/"
-                  id="maps.svg"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🗺️
+                  ☁️
                 </a>
               </div>
               <svg
@@ -2640,108 +2640,6 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="7"
               data-row="5"
               id="hexagon-5-7"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="liverpool"
-                  target="_blank"
-                >
-                  ⚽
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="8"
-              data-row="5"
-              id="hexagon-5-8"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vnindex"
-                  target="_blank"
-                >
-                  📈
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="9"
-              data-row="5"
-              id="hexagon-5-9"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vietnam"
-                  target="_blank"
-                >
-                  🇻🇳
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="10"
-              data-row="5"
-              id="hexagon-5-10"
               type="button"
             >
               <div
@@ -2773,9 +2671,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="11"
+              data-column="8"
               data-row="5"
-              id="hexagon-5-11"
+              id="hexagon-5-8"
               type="button"
             >
               <div
@@ -2807,6 +2705,108 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
+              data-column="9"
+              data-row="5"
+              id="hexagon-5-9"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
+                  target="_blank"
+                >
+                  💱
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="10"
+              data-row="5"
+              id="hexagon-5-10"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
+                  target="_blank"
+                >
+                  ☁️
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="11"
+              data-row="5"
+              id="hexagon-5-11"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
+                  target="_blank"
+                >
+                  🎨
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
               data-column="12"
               data-row="5"
               id="hexagon-5-12"
@@ -2816,11 +2816,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  ⚽
+                  🗺️
                 </a>
               </div>
               <svg
@@ -2850,11 +2850,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  📈
+                  💱
                 </a>
               </div>
               <svg
@@ -2918,11 +2918,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -2952,11 +2952,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -2987,10 +2987,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -3088,11 +3088,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -3122,11 +3122,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -3157,10 +3157,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -3258,11 +3258,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -3292,11 +3292,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -3327,10 +3327,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -3360,11 +3360,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  ⚽
+                  ☁️
                 </a>
               </div>
               <svg
@@ -3394,11 +3394,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
                   target="_blank"
                 >
-                  📈
+                  🎨
                 </a>
               </div>
               <svg
@@ -3428,11 +3428,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  🇻🇳
+                  🗺️
                 </a>
               </div>
               <svg
@@ -3462,11 +3462,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/colors/"
-                  id="colors"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  🎨
+                  💱
                 </a>
               </div>
               <svg
@@ -3496,11 +3496,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/maps.svg/"
-                  id="maps.svg"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🗺️
+                  ☁️
                 </a>
               </div>
               <svg
@@ -3524,108 +3524,6 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="5"
               data-row="7"
               id="hexagon-7-5"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="liverpool"
-                  target="_blank"
-                >
-                  ⚽
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="6"
-              data-row="7"
-              id="hexagon-7-6"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vnindex"
-                  target="_blank"
-                >
-                  📈
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="7"
-              data-row="7"
-              id="hexagon-7-7"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vietnam"
-                  target="_blank"
-                >
-                  🇻🇳
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="8"
-              data-row="7"
-              id="hexagon-7-8"
               type="button"
             >
               <div
@@ -3657,9 +3555,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="9"
+              data-column="6"
               data-row="7"
-              id="hexagon-7-9"
+              id="hexagon-7-6"
               type="button"
             >
               <div
@@ -3691,6 +3589,108 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
+              data-column="7"
+              data-row="7"
+              id="hexagon-7-7"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
+                  target="_blank"
+                >
+                  💱
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="8"
+              data-row="7"
+              id="hexagon-7-8"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
+                  target="_blank"
+                >
+                  ☁️
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="9"
+              data-row="7"
+              id="hexagon-7-9"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
+                  target="_blank"
+                >
+                  🎨
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
               data-column="10"
               data-row="7"
               id="hexagon-7-10"
@@ -3700,11 +3700,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  ⚽
+                  🗺️
                 </a>
               </div>
               <svg
@@ -3734,11 +3734,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  📈
+                  💱
                 </a>
               </div>
               <svg
@@ -3768,11 +3768,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🇻🇳
+                  ☁️
                 </a>
               </div>
               <svg
@@ -3836,11 +3836,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -3871,10 +3871,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -3972,11 +3972,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -4006,11 +4006,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -4041,10 +4041,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -4142,11 +4142,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -4176,11 +4176,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -4211,10 +4211,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -4312,11 +4312,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  🇻🇳
+                  🗺️
                 </a>
               </div>
               <svg
@@ -4346,11 +4346,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/colors/"
-                  id="colors"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  🎨
+                  💱
                 </a>
               </div>
               <svg
@@ -4380,11 +4380,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/maps.svg/"
-                  id="maps.svg"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🗺️
+                  ☁️
                 </a>
               </div>
               <svg
@@ -4408,108 +4408,6 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="3"
               data-row="9"
               id="hexagon-9-3"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="liverpool"
-                  target="_blank"
-                >
-                  ⚽
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="4"
-              data-row="9"
-              id="hexagon-9-4"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vnindex"
-                  target="_blank"
-                >
-                  📈
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="5"
-              data-row="9"
-              id="hexagon-9-5"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vietnam"
-                  target="_blank"
-                >
-                  🇻🇳
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="6"
-              data-row="9"
-              id="hexagon-9-6"
               type="button"
             >
               <div
@@ -4541,9 +4439,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="7"
+              data-column="4"
               data-row="9"
-              id="hexagon-9-7"
+              id="hexagon-9-4"
               type="button"
             >
               <div
@@ -4575,6 +4473,108 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
+              data-column="5"
+              data-row="9"
+              id="hexagon-9-5"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
+                  target="_blank"
+                >
+                  💱
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="6"
+              data-row="9"
+              id="hexagon-9-6"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
+                  target="_blank"
+                >
+                  ☁️
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="7"
+              data-row="9"
+              id="hexagon-9-7"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
+                  target="_blank"
+                >
+                  🎨
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
               data-column="8"
               data-row="9"
               id="hexagon-9-8"
@@ -4584,11 +4584,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  ⚽
+                  🗺️
                 </a>
               </div>
               <svg
@@ -4618,11 +4618,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  📈
+                  💱
                 </a>
               </div>
               <svg
@@ -4652,11 +4652,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🇻🇳
+                  ☁️
                 </a>
               </div>
               <svg
@@ -4754,11 +4754,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  ⚽
+                  💱
                 </a>
               </div>
               <svg
@@ -4856,11 +4856,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -4890,11 +4890,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -4925,10 +4925,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -5026,11 +5026,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -5060,11 +5060,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -5095,10 +5095,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -5196,11 +5196,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -5230,11 +5230,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -5264,11 +5264,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/maps.svg/"
-                  id="maps.svg"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🗺️
+                  ☁️
                 </a>
               </div>
               <svg
@@ -5292,108 +5292,6 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="1"
               data-row="11"
               id="hexagon-11-1"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="liverpool"
-                  target="_blank"
-                >
-                  ⚽
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="2"
-              data-row="11"
-              id="hexagon-11-2"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vnindex"
-                  target="_blank"
-                >
-                  📈
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="3"
-              data-row="11"
-              id="hexagon-11-3"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vietnam"
-                  target="_blank"
-                >
-                  🇻🇳
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="4"
-              data-row="11"
-              id="hexagon-11-4"
               type="button"
             >
               <div
@@ -5425,9 +5323,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="5"
+              data-column="2"
               data-row="11"
-              id="hexagon-11-5"
+              id="hexagon-11-2"
               type="button"
             >
               <div
@@ -5459,6 +5357,108 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
+              data-column="3"
+              data-row="11"
+              id="hexagon-11-3"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
+                  target="_blank"
+                >
+                  💱
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="4"
+              data-row="11"
+              id="hexagon-11-4"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
+                  target="_blank"
+                >
+                  ☁️
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="5"
+              data-row="11"
+              id="hexagon-11-5"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
+                  target="_blank"
+                >
+                  🎨
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
               data-column="6"
               data-row="11"
               id="hexagon-11-6"
@@ -5468,11 +5468,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  ⚽
+                  🗺️
                 </a>
               </div>
               <svg
@@ -5502,11 +5502,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  📈
+                  💱
                 </a>
               </div>
               <svg
@@ -5536,11 +5536,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🇻🇳
+                  ☁️
                 </a>
               </div>
               <svg
@@ -5638,11 +5638,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  ⚽
+                  💱
                 </a>
               </div>
               <svg
@@ -5672,11 +5672,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  📈
+                  ☁️
                 </a>
               </div>
               <svg
@@ -5706,11 +5706,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
                   target="_blank"
                 >
-                  🇻🇳
+                  🎨
                 </a>
               </div>
               <svg
@@ -5740,11 +5740,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -5774,11 +5774,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -5809,10 +5809,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -5910,11 +5910,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -5944,11 +5944,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -5979,10 +5979,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -6080,11 +6080,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -6114,11 +6114,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -6149,10 +6149,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -6216,11 +6216,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  📈
+                  🗺️
                 </a>
               </div>
               <svg
@@ -6250,11 +6250,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  🇻🇳
+                  💱
                 </a>
               </div>
               <svg
@@ -6278,6 +6278,40 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="2"
               data-row="13"
               id="hexagon-13-2"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
+                  target="_blank"
+                >
+                  ☁️
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="3"
+              data-row="13"
+              id="hexagon-13-3"
               type="button"
             >
               <div
@@ -6309,9 +6343,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="3"
+              data-column="4"
               data-row="13"
-              id="hexagon-13-3"
+              id="hexagon-13-4"
               type="button"
             >
               <div
@@ -6343,40 +6377,6 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="4"
-              data-row="13"
-              id="hexagon-13-4"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="liverpool"
-                  target="_blank"
-                >
-                  ⚽
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
               data-column="5"
               data-row="13"
               id="hexagon-13-5"
@@ -6386,11 +6386,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  📈
+                  💱
                 </a>
               </div>
               <svg
@@ -6420,11 +6420,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🇻🇳
+                  ☁️
                 </a>
               </div>
               <svg
@@ -6522,11 +6522,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  ⚽
+                  💱
                 </a>
               </div>
               <svg
@@ -6556,11 +6556,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  📈
+                  ☁️
                 </a>
               </div>
               <svg
@@ -6584,40 +6584,6 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="11"
               data-row="13"
               id="hexagon-13-11"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vietnam"
-                  target="_blank"
-                >
-                  🇻🇳
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="12"
-              data-row="13"
-              id="hexagon-13-12"
               type="button"
             >
               <div
@@ -6649,9 +6615,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="13"
+              data-column="12"
               data-row="13"
-              id="hexagon-13-13"
+              id="hexagon-13-12"
               type="button"
             >
               <div
@@ -6683,6 +6649,40 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
+              data-column="13"
+              data-row="13"
+              id="hexagon-13-13"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
+                  target="_blank"
+                >
+                  💱
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
               data-column="0"
               data-row="14"
               id="hexagon-14-0"
@@ -6693,10 +6693,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -6794,11 +6794,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -6828,11 +6828,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -6863,10 +6863,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -6964,11 +6964,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -6998,11 +6998,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -7033,10 +7033,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -7134,11 +7134,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -7162,6 +7162,40 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="0"
               data-row="15"
               id="hexagon-15-0"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
+                  target="_blank"
+                >
+                  ☁️
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
+              data-column="1"
+              data-row="15"
+              id="hexagon-15-1"
               type="button"
             >
               <div
@@ -7193,9 +7227,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="1"
+              data-column="2"
               data-row="15"
-              id="hexagon-15-1"
+              id="hexagon-15-2"
               type="button"
             >
               <div
@@ -7227,40 +7261,6 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="2"
-              data-row="15"
-              id="hexagon-15-2"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="liverpool"
-                  target="_blank"
-                >
-                  ⚽
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
               data-column="3"
               data-row="15"
               id="hexagon-15-3"
@@ -7270,11 +7270,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  📈
+                  💱
                 </a>
               </div>
               <svg
@@ -7304,11 +7304,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🇻🇳
+                  ☁️
                 </a>
               </div>
               <svg
@@ -7406,11 +7406,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  ⚽
+                  💱
                 </a>
               </div>
               <svg
@@ -7440,11 +7440,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  📈
+                  ☁️
                 </a>
               </div>
               <svg
@@ -7468,40 +7468,6 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="9"
               data-row="15"
               id="hexagon-15-9"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vietnam"
-                  target="_blank"
-                >
-                  🇻🇳
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="10"
-              data-row="15"
-              id="hexagon-15-10"
               type="button"
             >
               <div
@@ -7533,9 +7499,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="11"
+              data-column="10"
               data-row="15"
-              id="hexagon-15-11"
+              id="hexagon-15-10"
               type="button"
             >
               <div
@@ -7567,6 +7533,40 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
+              data-column="11"
+              data-row="15"
+              id="hexagon-15-11"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
+                  target="_blank"
+                >
+                  💱
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
               data-column="12"
               data-row="15"
               id="hexagon-15-12"
@@ -7576,11 +7576,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  ⚽
+                  ☁️
                 </a>
               </div>
               <svg
@@ -7610,11 +7610,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
                   target="_blank"
                 >
-                  📈
+                  🎨
                 </a>
               </div>
               <svg
@@ -7678,11 +7678,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -7712,11 +7712,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -7747,10 +7747,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -7848,11 +7848,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -7882,11 +7882,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -7917,10 +7917,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -8018,11 +8018,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="bumblebee"
+                  href="https://hexagonum.github.io/liverpool/"
+                  id="liverpool"
                   target="_blank"
                 >
-                  🐝
+                  ⚽
                 </a>
               </div>
               <svg
@@ -8052,11 +8052,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vi"
+                  href="https://hexagonum.github.io/trends/"
+                  id="trends"
                   target="_blank"
                 >
-                  💵
+                  📈
                 </a>
               </div>
               <svg
@@ -8087,10 +8087,10 @@ exports[`HomePage to match snapshot 1`] = `
               >
                 <a
                   href="#"
-                  id="chess"
+                  id="bumblebee"
                   target="_blank"
                 >
-                  ♟️
+                  🐝
                 </a>
               </div>
               <svg
@@ -8120,11 +8120,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  ⚽
+                  🗺️
                 </a>
               </div>
               <svg
@@ -8154,11 +8154,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  📈
+                  💱
                 </a>
               </div>
               <svg
@@ -8188,11 +8188,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  🇻🇳
+                  ☁️
                 </a>
               </div>
               <svg
@@ -8290,11 +8290,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  ⚽
+                  💱
                 </a>
               </div>
               <svg
@@ -8324,11 +8324,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  📈
+                  ☁️
                 </a>
               </div>
               <svg
@@ -8352,40 +8352,6 @@ exports[`HomePage to match snapshot 1`] = `
               data-column="7"
               data-row="17"
               id="hexagon-17-7"
-              type="button"
-            >
-              <div
-                class="flex absolute w-full h-full items-center justify-center text-6xl"
-              >
-                <a
-                  href="#"
-                  id="vietnam"
-                  target="_blank"
-                >
-                  🇻🇳
-                </a>
-              </div>
-              <svg
-                height="112"
-                style="pointer-events: none;"
-                version="1.1"
-                viewBox="0 0 128 110.85125168440814"
-                width="128"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
-                  stroke="#ffffff"
-                  stroke-width="5"
-                  style="pointer-events: none;"
-                />
-              </svg>
-            </button>
-            <button
-              class="relative"
-              data-column="8"
-              data-row="17"
-              id="hexagon-17-8"
               type="button"
             >
               <div
@@ -8417,9 +8383,9 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
-              data-column="9"
+              data-column="8"
               data-row="17"
-              id="hexagon-17-9"
+              id="hexagon-17-8"
               type="button"
             >
               <div
@@ -8451,6 +8417,40 @@ exports[`HomePage to match snapshot 1`] = `
             </button>
             <button
               class="relative"
+              data-column="9"
+              data-row="17"
+              id="hexagon-17-9"
+              type="button"
+            >
+              <div
+                class="flex absolute w-full h-full items-center justify-center text-6xl"
+              >
+                <a
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
+                  target="_blank"
+                >
+                  💱
+                </a>
+              </div>
+              <svg
+                height="112"
+                style="pointer-events: none;"
+                version="1.1"
+                viewBox="0 0 128 110.85125168440814"
+                width="128"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 55.42562584220407L32 0L96 0L128 55.42562584220407L96 110.85125168440814L32 110.85125168440814Z"
+                  stroke="#ffffff"
+                  stroke-width="5"
+                  style="pointer-events: none;"
+                />
+              </svg>
+            </button>
+            <button
+              class="relative"
               data-column="10"
               data-row="17"
               id="hexagon-17-10"
@@ -8460,11 +8460,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="liverpool"
+                  href="https://hexagonum.github.io/weather/"
+                  id="weather"
                   target="_blank"
                 >
-                  ⚽
+                  ☁️
                 </a>
               </div>
               <svg
@@ -8494,11 +8494,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vnindex"
+                  href="https://hexagonum.github.io/colors/"
+                  id="colors"
                   target="_blank"
                 >
-                  📈
+                  🎨
                 </a>
               </div>
               <svg
@@ -8528,11 +8528,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="#"
-                  id="vietnam"
+                  href="https://hexagonum.github.io/maps.svg/"
+                  id="maps.svg"
                   target="_blank"
                 >
-                  🇻🇳
+                  🗺️
                 </a>
               </div>
               <svg
@@ -8562,11 +8562,11 @@ exports[`HomePage to match snapshot 1`] = `
                 class="flex absolute w-full h-full items-center justify-center text-6xl"
               >
                 <a
-                  href="https://hexagonum.github.io/colors/"
-                  id="colors"
+                  href="https://hexagonum.github.io/forex/"
+                  id="forex"
                   target="_blank"
                 >
-                  🎨
+                  💱
                 </a>
               </div>
               <svg
